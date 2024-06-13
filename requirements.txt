@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+FPDF
+OpenCV-Python
+TensorFlow
+NumPy
+unittest
