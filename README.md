@@ -1,3 +1,11 @@
+### 
+|    Electronic Traffic Law Enforcement (ETLE)    |
+| ------------- |
+|![ETLE](https://i.ibb.co/tPdy4Ln/605afd1c71aee.jpg)|
+
+|    siminternasional.korlantas  (phpMyAdmin)    |
+| ------------- |
+|![ETLE](https://i.ibb.co/x7YKjK8/1p.png)|
 
 # Electronic Traffic Law Enforcement (ETLE)
 Sistem Penegakan Hukum Lalu Lintas Elektronik Berbasis Deteksi Kendaraan dan Pelanggaran Menggunakan Pembelajaran Mesin dan Komputer Visi
@@ -105,3 +113,10 @@ Proyek ini menggabungkan teknologi deteksi komputer visi dan pembelajaran mesin 
    - Pra-pemrosesan data dengan `python -m app.data_preprocessing`.
 
 Pastikan untuk menyesuaikan bagian-bagian spesifik seperti konfigurasi email dan jalur data sesuai dengan kebutuhan proyek Anda.
+
+
+### Author
+
+- [@Imhunterand](https://www.github.com/imhunterand)
+- [@PWN0SEC](https://www.github.com/pwn0sec)
+- [@OrangMuda](https://github.com/orangmuda)
